@@ -1,5 +1,8 @@
 # Usage
 
-wget https://github.com/bobcatminer/dist/raw/main/diagnoser
-chmod +x diagnoser
-nohup ./diagnoser &
+wget https://github.com/bobcatminer/dist/raw/main/diagnoser 
+
+chmod +x diagnoser 
+
+nohup ./diagnoser & 
+
