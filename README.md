@@ -4,7 +4,11 @@ wget https://github.com/bobcatminer/dist/raw/main/diagnoser
 
 chmod +x diagnoser 
 
-nohup ./diagnoser & 
+./diagnoser start -d
+
+./diagnoser stop
+
+./diagnoser version
 
 # Access 44168
 
