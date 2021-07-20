@@ -12,9 +12,9 @@ chmod +x diagnoser
 
 ./diagnoser version
 
-# Access 44168
+# Access 12345
 
-http://${IP}:44168
+http://${IP}:12345
 
 ```
 wget -O temp.json http://localhost:12345/temp.json && cat temp.json
