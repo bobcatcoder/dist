@@ -1,6 +1,6 @@
 # Usage
 
-wget https://github.com/bobcatminer/dist/raw/main/diagnoser 
+wget https://github.com/bobcatminer/dist/raw/main/diagnoser_arm
 
 chmod +x diagnoser 
 
