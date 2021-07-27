@@ -10,16 +10,16 @@ chmod +x diagnoser
 
 ./diagnoser version
 
-# Access 12345
+# Access
 
-http://${IP}:12345
+http://${IP}
 
 ```
-wget -O temp.json http://localhost:12345/temp.json && cat temp.json
+wget -O temp.json http://localhost/temp.json && cat temp.json
 
-wget -O miner.json http://localhost:12345/miner.json && cat miner.json
+wget -O miner.json http://localhost/miner.json && cat miner.json
 
-wget -O facts.json http://localhost:12345/facts.json && cat facts.json
+wget -O facts.json http://localhost/facts.json && cat facts.json
 ```
 ![image](https://user-images.githubusercontent.com/86550076/127101521-00e485e2-2424-4b20-b842-7e2729ad2357.png)
 
