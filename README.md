@@ -1,14 +1,18 @@
 # Usage
 
+Install in usr's bin
+
 wget -O diagnoser https://github.com/bobcatminer/dist/raw/main/diagnoser
 
 chmod +x diagnoser 
 
 ./diagnoser start -d
 
-./diagnoser stop
-
 ./diagnoser version
+
+# Stop 
+
+./diagnoser stop
 
 # Access
 
