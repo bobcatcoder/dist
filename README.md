@@ -2,7 +2,7 @@
 
 Install in usr's bin
 
-wget -O diagnoser https://github.com/bobcatminer/dist/releases/download/1.0.5/diagnoser
+wget -O diagnoser https://github.com/bobcatminer/dist/releases/download/1.0.6/diagnoser
 
 chmod +x diagnoser 
 
