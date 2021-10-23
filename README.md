@@ -2,13 +2,19 @@
 
 Install in usr's bin
 
+```
+pkill diagnoser
+
+cd /usr/bin
+
 wget -O diagnoser https://github.com/bobcatminer/dist/releases/download/1.0.7/diagnoser
+
+./diagnoser version
 
 chmod +x diagnoser 
 
 ./diagnoser start -d
-
-./diagnoser version
+```
 
 # Stop 
 
