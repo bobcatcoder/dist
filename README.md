@@ -32,6 +32,11 @@ wget -O miner.json http://localhost/miner.json && cat miner.json
 wget -O status.json http://localhost/status.json && cat status.json
 
 wget -O led.json http://localhost/led.json && cat led.json
+
+wget -O dig.json http://localhost/dig.json && cat dig.json
+
+wget -O speed.json http://localhost/speed.json && cat speed.json
+
 ```
 
 
