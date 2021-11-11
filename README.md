@@ -13,7 +13,7 @@ wget -O diagnoser https://github.com/bobcatminer/dist/releases/download/1.1.0/di
 
 chmod +x diagnoser 
 
-./diagnoser start -d
+diagnoser start -d
 ```
 
 # Stop 
