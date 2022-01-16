@@ -7,7 +7,7 @@ pkill diagnoser
 
 cd /usr/bin
 
-wget -O diagnoser https://github.com/bobcatminer/dist/releases/download/1.2.6/diagnoser
+wget -O diagnoser https://github.com/bobcatminer/dist/releases/download/1.2.7/diagnoser
 
 ./diagnoser version
 
