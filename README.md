@@ -37,6 +37,8 @@ wget -O dig.json http://localhost/dig.json && cat dig.json
 
 wget -O speed.json http://localhost/speed.json && cat speed.json
 
+wget -O version.txt http://localhost/version && cat version.txt
+
 ```
 
 
