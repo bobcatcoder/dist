@@ -7,6 +7,10 @@ pkill diagnoser
 
 cd /usr/bin
 
+# for full hotspot:
+wget -O diagnoser https://github.com/bobcatminer/dist/releases/download/1.3.3/diagnoser
+
+# for light gateway:
 wget -O diagnoser https://github.com/bobcatminer/dist/releases/download/2.0.0/diagnoser
 
 ./diagnoser version
